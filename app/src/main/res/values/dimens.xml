@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="sticky_height">200px</dimen>
+    <dimen name="top_height">400px</dimen>
+</resources>
